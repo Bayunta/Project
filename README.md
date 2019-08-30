@@ -1,2 +1,1 @@
-$ git clone https://github.com/Bayunta/Project.git
-$ cd testUpload
+ https://github.com/Bayunta/Project/testUpload.git
