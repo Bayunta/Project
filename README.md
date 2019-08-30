@@ -1,2 +1,2 @@
-# Project https://github.com/Bayunta/Project.git
-$cd test upload
+$ git clone https://github.com/Bayunta/Project.git
+$ cd test upload
